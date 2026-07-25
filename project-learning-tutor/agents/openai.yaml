@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Learning Tutor"
+  short_description: "Learn codebases with evidence-cited teaching and interview prep."
+  default_prompt: "Use $project-learning-tutor to teach this project one verified workflow at a time."
